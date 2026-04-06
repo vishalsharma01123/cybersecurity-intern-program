@@ -2,13 +2,11 @@
 
 ## 📌 Overview
 To safeguard organisational data and resources accessed by interns while building their security expertise.
-<img width="2566" height="123" alt="image" src="https://github.com/user-attachments/assets/b1d9251d-22b3-499a-80e8-639e99f4d22d" />
-
 
 ## 🎯 Objectives
-- Identify cybersecurity vulnerabilities
-- Implement security strategies
-- Train interns on best practices
+Identify: Pinpoint vulnerabilities within the current intern program.
+Mitigate: Develop and deploy strategies to neutralise cyber threats.
+Educate: Create awareness and train interns on industry best practices.
 
 ## 🧱 Project Structure
 - Assessment of current systems
