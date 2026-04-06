@@ -1,0 +1,27 @@
+cybersecurity-intern-program/
+│
+├── README.md
+├── docs/
+│   ├── project_report.pdf
+│   ├── presentation.pptx
+│
+├── assessment/
+│   └── assessment.md
+│
+├── vulnerabilities/
+│   └── vulnerabilities.md
+│
+├── strategies/
+│   └── strategies.md
+│
+├── implementation/
+│   └── implementation.md
+│
+├── training/
+│   └── training.md
+│
+├── diagrams/
+│   └── architecture.png
+│
+└── scripts/ (optional)
+    └── sample_security_script.py
