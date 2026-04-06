@@ -1,7 +1,9 @@
 # Enhancing Cybersecurity Measures in a Tech Intern Program
 
 ## 📌 Overview
-This project focuses on improving cybersecurity practices within a tech intern program by identifying risks, implementing security measures, and educating interns.
+To safeguard organisational data and resources accessed by interns while building their security expertise.
+<img width="2566" height="123" alt="image" src="https://github.com/user-attachments/assets/b1d9251d-22b3-499a-80e8-639e99f4d22d" />
+
 
 ## 🎯 Objectives
 - Identify cybersecurity vulnerabilities
