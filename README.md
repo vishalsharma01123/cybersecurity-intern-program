@@ -15,40 +15,6 @@ This project focuses on strengthening cybersecurity practices within a tech inte
 
 ---
 
-## 🧱 Project Structure
-
-```
-cybersecurity-intern-program/
-│
-├── README.md
-├── docs/
-│   ├── project_report.pdf
-│   ├── presentation.pptx
-│
-├── assessment/
-│   └── assessment.md
-│
-├── vulnerabilities/
-│   └── vulnerabilities.md
-│
-├── strategies/
-│   └── strategies.md
-│
-├── implementation/
-│   └── implementation.md
-│
-├── training/
-│   └── training.md
-│
-├── diagrams/
-│   └── architecture.png
-│
-└── scripts/
-    └── sample_security_script.py
-```
-
----
-
 ## 🔍 Project Phases
 
 ### 🧪 1. Cybersecurity Assessment
