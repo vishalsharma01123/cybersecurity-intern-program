@@ -4,9 +4,9 @@
 To safeguard organisational data and resources accessed by interns while building their security expertise.
 
 ## 🎯 Objectives
-- Identify: Pinpoint vulnerabilities within the current intern program.
-- Mitigate: Develop and deploy strategies to neutralise cyber threats.
-- Educate: Create awareness and train interns on industry best practices.
+- **Identify:** Pinpoint vulnerabilities within the current intern program.
+- **Mitigate:** Develop and deploy strategies to neutralise cyber threats.
+- **Educate:** Create awareness and train interns on industry best practices.
 
 ## 🧱 Project Structure
 - Assessment of current systems
